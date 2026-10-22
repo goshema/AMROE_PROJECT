@@ -1,14 +1,3 @@
-I see the issue - the formatting got lost when pasting. The text is all there, but the **Markdown formatting** (headers, bullet points, line breaks) didn't come through properly.
-
-Let's fix this! Here's what to do:
-
-### Quick Fix:
-
-1. Click the **pencil icon** (Edit) at the top right of the README view
-2. **Delete everything** currently in the file (Ctrl+A, then Delete)
-3. **Copy and paste** this corrected version below (I've made sure the formatting is clean):
-
-```markdown
 # AMROE - Actuarial Market Risk & Opportunity Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
