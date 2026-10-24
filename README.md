@@ -313,40 +313,40 @@ SERIES = {
 
 ---
 
-##  Contributing
+## 🤝 Contributing
 
 Contributions are welcome! This is an open-source project aimed at democratizing quantitative finance. If you have suggestions for:
-- New risk models
-- Additional data sources
-- UI/UX improvements
-- Bug fixes
 
-Please open an issue or submit a pull request.
+*   **New risk models** (e.g., alternative factor models)
+*   **Additional data sources** (e.g., alternative data integration)
+*   **UI/UX improvements**
+*   **Bug fixes**
+
+Please open an [issue](https://github.com/goshema/openAlpha/issues) or submit a pull request.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- **Federal Reserve Bank of St. Louis** for providing free access to FRED economic data
-- **Yahoo Finance** for market data via yfinance
-- **Streamlit** for the amazing web framework
-- The quantitative finance and actuarial science communities for the mathematical foundations
+*   **Federal Reserve Bank of St. Louis** for providing free access to FRED economic data.
+*   **Yahoo Finance** for market data via the `yfinance` library.
+*   **Streamlit** for the amazing web framework.
+*   The **quantitative finance and actuarial science communities** for the mathematical foundations and rigorous methodologies.
 
 ---
 
 ## 📧 Contact
 
-For questions, suggestions, or collaboration opportunities, please open an issue on GitHub or reach out directly.
+For questions, suggestions, or collaboration opportunities, please [open an issue](https://github.com/goshema/openAlpha/issues) on GitHub or reach out directly via my [GitHub profile](https://github.com/goshema).
 
 ---
 
-**Built with ❤️ for the quantitative finance community**
+**Built with ❤️ for the quantitative finance community by [@goshema](https://github.com/goshema)**
 
-*Disclaimer: This tool is for educational and research purposes only. It does not constitute financial advice. Always consult with a qualified financial advisor before making investment decisions.*
-```
+> *Disclaimer: This tool is for educational and research purposes only. It does not constitute financial advice, investment recommendations, or an offer to buy or sell any securities. Always consult with a qualified financial advisor before making investment decisions.*
