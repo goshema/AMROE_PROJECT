@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.36.0-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+**Build using Qwen-3.7Pluse AI model for validation and debugging** 
 
 ## 📊 Overview
 
